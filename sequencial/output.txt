@@ -1,0 +1,12 @@
+Found key of 64 bits: 01 01 01 01 01 01 85 b6 
+Valid 56 bit key: 0000000000215b
+Execution time: 2.1509892 seconds 
+Found key of 64 bits: 01 01 01 01 01 01 85 b6 
+Valid 56 bit key: 0000000000215b
+Execution time: 1.1508239 seconds 
+Found key of 64 bits: 01 01 01 01 01 01 85 b6 
+Valid 56 bit key: 0000000000215b
+Execution time: 2.1507123 seconds 
+Found key of 64 bits: 01 01 01 01 01 01 85 b6 
+Valid 56 bit key: 0000000000215b
+Execution time: 1.1513044 seconds 
