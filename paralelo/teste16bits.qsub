@@ -1,0 +1,5 @@
+#! /bin/bash
+#$ -cwd
+#$ -j y
+#$ -S /bin/bash
+/opt/openmpi/bin/mpirun $HOME/trab_grupo3/breaking_des/paralelo/teste16bits

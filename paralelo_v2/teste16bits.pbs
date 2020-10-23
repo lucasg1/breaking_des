@@ -1,0 +1,8 @@
+#! /bin/ksh
+#PBS -j oe
+#PBS -l select=1:ncpus=4:mpiprocs=4
+
+date
+cd $PBS_O_WORKDIR
+aprun -n4 ./paralelo2
+
